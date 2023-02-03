@@ -307,6 +307,6 @@
 <br><br>	
 	
 ### **Contato para dúvidas e sugestões:**<br>
-@: jan.paulo.salvador@everis.nttdata.com<br>
+@: renatomenendes@yahoo.com.br<br>
 	
-	jan.paulo.salvador@everis.nttdata.com
+	renatomenendes@yahoo.com.br
