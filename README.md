@@ -302,7 +302,7 @@
 	
 <p>Para facilitar, foi desenvolvido um Checklist para guiar o fluxo de operação do Framework.<br>
 
-> Link para o [Check List](https://github.com/renatomenendes/framework_pinhao/checklist.md#check-list-framework-pinh%C3%A3o)
+> Link para o [Check List](https://github.com/renatomenendes/framework_pinhao#check-list-framework-pinh%C3%A3o)
 	
 <br><br>	
 	
